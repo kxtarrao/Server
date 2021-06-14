@@ -17,12 +17,12 @@ terminal and import client.py
 
 Example Command Set:
 
->from client import Client
+>>from client import Client
 
->Client.start()
+>>Client.start()
 
->Client.query("n10")
+>>Client.query("n10")
 
->Client.query("n6")
+>>Client.query("n6")
 
->Client.stop()
+>>Client.stop()
